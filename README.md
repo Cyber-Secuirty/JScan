@@ -1,11 +1,11 @@
-# README
+# [+] README
 The Scanner Helps To Scan The Ports
 
-# Installation For Linux:-
+# [+] Installation For Linux:-
 git clone https://github.com/Pain0555/JayScan.git
 
 
-# Requriments To Run This Program:
+# [+] Requriments To Run This Program:
   
 pip3 install IPy
 
